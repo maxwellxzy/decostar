@@ -2,10 +2,11 @@
 sidebar_position: 1
 ---
 
-# It is a test page
+# Dev page
 
-It's a test page.
+It's a dev page.
+We are going to build it.
 
-## Getting Started
-Yes
+## Oooooops!
+Please wait for a moment.
 
